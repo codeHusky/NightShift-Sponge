@@ -1,4 +1,4 @@
-# NightShift-Sponge
+# NightShift
 Skip the night!
 
 # SpongePowered Topic
