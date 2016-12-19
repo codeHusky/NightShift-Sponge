@@ -1,0 +1,12 @@
+[{
+    "modid": "nightshift",
+    "name": "NightShift",
+    "version": "1.0-SNAPSHOT",
+    "description": "skip to day via votes!",
+    "authorList": [
+        "Loki (MikaalSky)"
+    ],
+    "dependencies": [
+
+    ]
+}]
