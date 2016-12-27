@@ -50,7 +50,7 @@ public class NightShift {
         taskBuilder.execute(new Runnable() {
             @Override
             public void run() {
-                if(voteActive)
+                if(voteActive || Sponge.getServer().getOnlinePlayers().size() < 1)
                     return;
 
                 World w = (World )Sponge.getGame().getServer().getWorlds().toArray()[0];
